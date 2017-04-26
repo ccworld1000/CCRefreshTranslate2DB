@@ -1,0 +1,2 @@
+# CCRefreshTranslate2DB
+CCRefreshTranslate2DB
