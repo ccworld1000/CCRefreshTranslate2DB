@@ -1,0 +1,16 @@
+{
+    "CCRefreshAutoFooterIdleText" : "Tap or pull up to load more",
+    "CCRefreshAutoFooterNoMoreDataText" : "No more data",
+    "CCRefreshAutoFooterRefreshingText" : "Loading...",
+    "CCRefreshBackFooterIdleText" : "Pull up to load more",
+    "CCRefreshBackFooterNoMoreDataText" : "No more data",
+    "CCRefreshBackFooterPullingText" : "Release to load more.",
+    "CCRefreshBackFooterRefreshingText" : "Loading...",
+    "CCRefreshHeaderDateTodayText" : "Today",
+    "CCRefreshHeaderIdleText" : "Pull down to refresh",
+    "CCRefreshHeaderLastTimeText" : "Last update:",
+    "CCRefreshHeaderNoneLastDateText" : "No record",
+    "CCRefreshHeaderPullingText" : "Release to refresh",
+    "CCRefreshHeaderRefreshingText" : "Loading...",
+    "CCRefreshLanguage" : "en"
+}

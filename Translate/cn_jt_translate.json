@@ -1,0 +1,16 @@
+{
+    "CCRefreshAutoFooterIdleText" : "点击或上拉加载更多",
+    "CCRefreshAutoFooterNoMoreDataText" : "已经全部加载完毕",
+    "CCRefreshAutoFooterRefreshingText" : "正在加载更多的数据...",
+    "CCRefreshBackFooterIdleText" : "上拉可以加载更多",
+    "CCRefreshBackFooterNoMoreDataText" : "已经全部加载完毕",
+    "CCRefreshBackFooterPullingText" : "松开立即加载更多",
+    "CCRefreshBackFooterRefreshingText" : "正在加载更多的数据...",
+    "CCRefreshHeaderDateTodayText" : "今天",
+    "CCRefreshHeaderIdleText" : "下拉可以刷新",
+    "CCRefreshHeaderLastTimeText" : "最后更新：",
+    "CCRefreshHeaderNoneLastDateText" : "无记录",
+    "CCRefreshHeaderPullingText" : "松开立即刷新",
+    "CCRefreshHeaderRefreshingText" : "正在刷新数据中...",
+    "CCRefreshLanguage" : "中文简体"
+}
