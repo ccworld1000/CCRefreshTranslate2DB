@@ -1,38 +1,3 @@
-# CCRefreshTranslate2DB
-CCRefreshTranslate2DB custom CCRefresh database
-
-# Translate
-
-## database
-CCRefreshTranslate2DB.db [real database]
-
-## shell
-autoConvertJson2DB.sh [atuo handle shell script]
-
-## example
-cn_ft_translate.json [cn ft]
-
-cn_jt_translate.json [cn jt]
-
-en_translate.json [en ]
-
-## How to Translate
-You can copy the en_translate.json into the end of the JSON file, change the CCRefreshLanguage language key categories, translation or other key content customization.
-
-## Reference
-![Reference detail](https://github.com/ccworld1000/CCRefreshTranslate2DB/blob/master/Documentation/Reference.png?raw=true)
-
-## How to Translate Convert
-```shell
-cd Translate
-sh autoConvertJson2DB.sh
-```
-
-![Convert detail](https://github.com/ccworld1000/CCRefreshTranslate2DB/blob/master/Documentation/Translate.gif?raw=true)
-
-# MIT License
-***
-
 MIT License
 
 Copyright (c) 2017-now ccworld1000 | bug : <a href="mailto:ccworld1000@gmail.com">ccworld1000@gmail.com</a>
@@ -54,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-***
-# Other LICENSE
-***
-
-[CCRefresh LICENSE](LICENSE/LICENSE.CCRefresh.txtt) 
-
